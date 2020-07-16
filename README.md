@@ -1,7 +1,7 @@
 # IPaddr
 A simple python script to display IP, network ID, broadcast ID and subnetmask information.
 
-Did this as a learning exercise will studying network IP addressing.
+Did this as a learning exercise while studying network IP addressing.
 
 ## Steps to find information manually
 Given an IP, for example 10.42.37.12/22, we first need to find the submask in binary.
